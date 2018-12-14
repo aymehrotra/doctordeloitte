@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "DemoGame",
+"dataUrl": "HTML_Game.data.unityweb",
+"asmCodeUrl": "HTML_Game.asm.code.unityweb",
+"asmMemoryUrl": "HTML_Game.asm.memory.unityweb",
+"asmFrameworkUrl": "HTML_Game.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
